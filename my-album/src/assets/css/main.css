@@ -1,0 +1,22 @@
+nav-bar {
+
+background-color: deepskyblue;
+
+}
+
+.container {
+  margin: auto;
+  margin-top: 80px;
+  width: 80%;
+
+}
+
+.box {
+  border: 1px solid red;
+}
+
+.image-background {
+  background-color: #212124;
+  width:auto;
+  height: 500px;
+}
